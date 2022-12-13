@@ -1,4 +1,5 @@
-![logo]()
+![IMG_20200208_083950](https://user-images.githubusercontent.com/32305713/207270067-49eaf9cc-0748-4e18-812f-1d818bbff996.jpg)
+
 
 <h1 align="center">Hi 👋, My name is Etvendy Afrilio</h1>
 <h3 align="center">A passionate Software Engineer and Focusing in Backend</h3>
